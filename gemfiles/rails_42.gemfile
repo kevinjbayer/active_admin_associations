@@ -7,6 +7,6 @@ gem "sass-rails"
 gem "bourbon"
 gem "launchy"
 gem "devise"
-gem "rails", "~> 4.2.1"
+gem "rails", "~> 4.2.3"
 
 gemspec :path => "../"
